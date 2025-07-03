@@ -1,4 +1,6 @@
 # RaptorX
+A semantic code search platform
+
 
 ## License
 
