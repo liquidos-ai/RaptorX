@@ -3,5 +3,6 @@ name = "raptorx"
 version = "0.1.0"
 edition = "2024"
 license = "Elastic-2.0"
+description = "A Rust library for semantic code search"
 
 [dependencies]
